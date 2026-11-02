@@ -1,5 +1,5 @@
 # DNA-tools
-Generates the reverse-complement DNA strand and identifies characters that are not part of the A, T, G, C alphabet
+Generates the reverse-complement  strands and identifies characters that are not part of the alphabet
 ```
 --> python DNA.py
 Enter a DNA or RNA:
